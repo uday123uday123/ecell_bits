@@ -771,7 +771,7 @@ It's everything that happens after you write the first line of code.`,
     id: 'blg-9',
     title: 'Startup Graveyard Ep 1: Killed by Timing',
     slug: 'startup-graveyard-ep1-killed-by-timing',
-    excerpt: 'What if your startup didn\\'t fail because your idea was bad? What if you were actually right, but the world was just too behind to care?',
+    excerpt: 'What if your startup didn\'t fail because your idea was bad? What if you were actually right, but the world was just too behind to care?',
     content: `What if your startup didn't fail because your idea was bad? What if you were actually right, but the world was just too behind to care?
 
 In founder circles, speed is treated like a religion. Move fast, ship product, iterate, outrun the competition. But there's a quiet killer sitting in the corner that doesn't give a damn about how fast you code: timing.
@@ -816,7 +816,7 @@ Because sometimes, the difference between a total disaster and an industry giant
     id: 'blg-10',
     title: 'Startup Graveyard Ep 2: Killed by Its Own Success',
     slug: 'startup-graveyard-ep2-killed-by-success',
-    excerpt: 'There\\'s a weirder, far more brutal way to die that nobody warns you about: getting crushed by your own growth.',
+    excerpt: 'There\'s a weirder, far more brutal way to die that nobody warns you about: getting crushed by your own growth.',
     content: `We usually picture startup failure as a quiet, depressing collapse: no traction, no users, bank account sitting at zero. But there's a weirder, far more brutal way to die that nobody warns you about: getting crushed by your own growth.
 
 It sounds absurd. Isn't massive traction the whole point? You want the traffic spike, the inbox flooded with orders, the media coverage, the exponential charts. But success brings something that early-stage survival doesn't: scale. And scale acts like a magnifying glass on every dirty little secret, shortcut, and broken process you swept under the rug when you were small.
@@ -861,7 +861,7 @@ Because the ultimate goal isn't just to catch lightning in a bottle. It's buildi
     id: 'blg-11',
     title: 'Startup Graveyard Ep 3: Killed by Too Much Money',
     slug: 'startup-graveyard-ep3-killed-by-too-much-money',
-    excerpt: 'Money itself doesn\\'t kill companies, but getting a massive pile of it too early acts like a drug. It dulls your pain receptors — and pain is the only thing telling you you\\'re doing something stupid.',
+    excerpt: 'Money itself doesn\'t kill companies, but getting a massive pile of it too early acts like a drug. It dulls your pain receptors — and pain is the only thing telling you you\'re doing something stupid.',
     content: `What would you do if someone dropped ₹10 crore into your startup's bank account tomorrow?
 
 The instinct is obvious: move into a sleek office, double your engineering team, crank up performance marketing, launch in five new cities, and finally breathe a sigh of relief. The money problem is solved.
@@ -906,7 +906,7 @@ If you ever find yourself sitting on a pile of venture capital, the challenge is
     id: 'blg-12',
     title: 'Startup Graveyard Ep 4: Killed by the Wrong Customer',
     slug: 'startup-graveyard-ep4-killed-by-wrong-customer',
-    excerpt: 'One of the easiest ways to kill a startup is confusing a "user" with a "buyer." Just because someone likes your app doesn\\'t mean they are a customer.',
+    excerpt: 'One of the easiest ways to kill a startup is confusing a "user" with a "buyer." Just because someone likes your app doesn\'t mean they are a customer.',
     content: `You spend eight months in a room building a product. You test it, polish it, polish it some more, and finally drop it into the world. People actually use it. They tell you it's "super cool," leave nice comments on social media, and download it in droves.
 
 And yet, your bank account is bleeding out, and the startup is dying.
@@ -1014,7 +1014,7 @@ If you don't have a solid answer, stop watching the competition and go fix your 
     id: 'blg-14',
     title: 'Startup Graveyard Ep 6: Killed by Growing Too Fast',
     slug: 'startup-graveyard-ep6-killed-by-growing-too-fast',
-    excerpt: 'Growth isn\\'t proof of health. Growth is an amplifier. If your product, team, or ops are already slightly messy, blowing up multiplies them until the whole machine snaps in half.',
+    excerpt: 'Growth isn\'t proof of health. Growth is an amplifier. If your product, team, or ops are already slightly messy, blowing up multiplies them until the whole machine snaps in half.',
     content: `Growth is every startup's favorite drug.
 
 The numbers are going up and to the right, media outlets are reaching out, investors are throwing money at you, and everyone on LinkedIn thinks you're a genius. When a startup goes viral or explodes onto the scene, it feels like winning the lottery.
@@ -1068,7 +1068,7 @@ Before you try to blow up the scoreboard, make sure your foundation can actually
     id: 'blg-15',
     title: 'Startup Graveyard Ep 7: Killed by Solving a Problem Nobody Had',
     slug: 'startup-graveyard-ep7-killed-by-no-problem',
-    excerpt: 'The far more tragic deaths happen to startups where everything is built impeccably well — but after the launch excitement fades, there\\'s deafening silence.',
+    excerpt: 'The far more tragic deaths happen to startups where everything is built impeccably well — but after the launch excitement fades, there\'s deafening silence.',
     content: `Some startups die because the product is ugly, slow, or broken. But the far more tragic deaths happen to startups where everything is built impeccably well: the code is clean, the branding is sleek, the team is brilliant, and the tech works like magic.
 
 The pitch decks look incredible, and investors even drop comments like, "Wow, that's genuinely innovative."
@@ -1126,7 +1126,7 @@ Start asking "If we build this, would anyone's life actually suffer if it disapp
     id: 'blg-16',
     title: 'Startup Graveyard Ep 8: Killed by Listening to Everyone',
     slug: 'startup-graveyard-ep8-killed-by-listening-to-everyone',
-    excerpt: 'Listening to everyone will kill your company just as fast as listening to nobody. Feedback is raw data — it isn\\'t a direct order.',
+    excerpt: 'Listening to everyone will kill your company just as fast as listening to nobody. Feedback is raw data — it isn\'t a direct order.',
     content: `"Listen to your customers."
 
 It's the first commandment of startup advice, and for good reason. Customers use your product, suffer through your bugs, and feel the friction firsthand. Their feedback can pull you out of blind spots you didn't even know you had.
