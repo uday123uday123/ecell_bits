@@ -62,7 +62,7 @@ export interface BlogItem {
     role: string;
     avatar: string;
   };
-  category: 'Entrepreneurship' | 'Pitching' | 'Tech Trends' | 'Funding 101' | 'Founder Stories';
+  category: 'Entrepreneurship' | 'Pitching' | 'Tech Trends' | 'Funding 101' | 'Founder Stories' | 'Startup Graveyard';
   publishedAt: string;
   readTime: string;
   coverImage: string;

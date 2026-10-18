@@ -10,7 +10,7 @@ export const BlogsPage: React.FC = () => {
   const [selectedBlog, setSelectedBlog] = useState<BlogItem | null>(null);
   const [viewMode, setViewMode] = useState<'Blogs' | 'Resources'>('Blogs');
 
-  const categories = ['All', 'Entrepreneurship', 'Founder Stories', 'Tech Trends'];
+  const categories = ['All', 'Entrepreneurship', 'Founder Stories', 'Tech Trends', 'Startup Graveyard'];
 
   const filteredBlogs = INITIAL_BLOGS.filter((b) => {
     const matchesCat = activeCategory === 'All' || b.category === activeCategory;
