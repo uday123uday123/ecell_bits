@@ -762,7 +762,7 @@ It's everything that happens after you write the first line of code.`,
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'January 01, 2026',
+    publishedAt: 'September 01, 2026',
     readTime: '6 min read',
     coverImage: '/blogs/startup_graveyard/coverpost.png',
     tags: ['StartupGraveyard', 'FailureAnalysis', 'Entrepreneurship', 'StartupLessons']
@@ -807,7 +807,7 @@ Because sometimes, the difference between a total disaster and an industry giant
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'January 15, 2026',
+    publishedAt: 'September 05, 2026',
     readTime: '7 min read',
     coverImage: '/blogs/startup_graveyard/episode01.png',
     tags: ['StartupGraveyard', 'Timing', 'MarketReadiness', 'FounderLessons']
@@ -852,7 +852,7 @@ Because the ultimate goal isn't just to catch lightning in a bottle. It's buildi
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'February 01, 2026',
+    publishedAt: 'September 10, 2026',
     readTime: '6 min read',
     coverImage: '/blogs/startup_graveyard/episode02.png',
     tags: ['StartupGraveyard', 'Hypergrowth', 'Scaling', 'OperationalFailure']
@@ -897,7 +897,7 @@ If you ever find yourself sitting on a pile of venture capital, the challenge is
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'February 15, 2026',
+    publishedAt: 'September 15, 2026',
     readTime: '6 min read',
     coverImage: '/blogs/startup_graveyard/episoode03.png',
     tags: ['StartupGraveyard', 'VCFunding', 'BurnRate', 'Discipline']
@@ -954,7 +954,7 @@ Because at the end of the day, compliments don't clear payroll. Paying customers
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'March 01, 2026',
+    publishedAt: 'September 19, 2026',
     readTime: '7 min read',
     coverImage: '/blogs/startup_graveyard/episode04.png',
     tags: ['StartupGraveyard', 'CustomerDiscovery', 'ProductMarketFit', 'UserVsBuyer']
@@ -1005,7 +1005,7 @@ If you don't have a solid answer, stop watching the competition and go fix your 
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'March 15, 2026',
+    publishedAt: 'September 24, 2026',
     readTime: '6 min read',
     coverImage: '/blogs/startup_graveyard/episode05.png',
     tags: ['StartupGraveyard', 'Competition', 'FirstMoverTrap', 'ProductStrategy']
@@ -1059,7 +1059,7 @@ Before you try to blow up the scoreboard, make sure your foundation can actually
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'April 01, 2026',
+    publishedAt: 'September 29, 2026',
     readTime: '6 min read',
     coverImage: '/blogs/startup_graveyard/episode06.png',
     tags: ['StartupGraveyard', 'GrowthTraps', 'Scaling', 'SustainableGrowth']
@@ -1117,7 +1117,7 @@ Start asking "If we build this, would anyone's life actually suffer if it disapp
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'April 15, 2026',
+    publishedAt: 'October 05, 2026',
     readTime: '6 min read',
     coverImage: '/blogs/startup_graveyard/episode07.png',
     tags: ['StartupGraveyard', 'ProblemValidation', 'BuildVsNeed', 'FounderEgo']
@@ -1175,7 +1175,7 @@ If ten people gave you ten completely different directions for your startup tomo
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'May 01, 2026',
+    publishedAt: 'October 10, 2026',
     readTime: '6 min read',
     coverImage: '/blogs/startup_graveyard/episode08.png',
     tags: ['StartupGraveyard', 'Feedback', 'ProductVision', 'FounderBackbone']
@@ -1239,7 +1239,7 @@ Maybe the ultimate competitive edge isn't having a secret formula for success â€
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'May 15, 2026',
+    publishedAt: 'October 15, 2026',
     readTime: '6 min read',
     coverImage: '/blogs/startup_graveyard/episode09.png',
     tags: ['StartupGraveyard', 'FailureAnalysis', 'Resilience', 'FounderMindset']
