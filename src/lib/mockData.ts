@@ -527,7 +527,7 @@ Zerodha's story reminds us that great businesses are built through patience, inn
       avatar: '/logo.jpg'
     },
     category: 'Founder Stories',
-    publishedAt: 'September 01, 2025',
+    publishedAt: 'August 30, 2026',
     readTime: '4 min read',
     coverImage: '/blogs/from 10,000 to a billion-dollar startup.jpeg',
     tags: ['Zerodha', 'Bootstrapping', 'StartupIndia', 'Entrepreneurship']
@@ -558,7 +558,7 @@ As students and aspiring entrepreneurs, these stories inspire us to look beyond 
       avatar: '/logo.jpg'
     },
     category: 'Entrepreneurship',
-    publishedAt: 'September 15, 2025',
+    publishedAt: 'August 31, 2026',
     readTime: '5 min read',
     coverImage: '/blogs/Hidden indain startups.jpeg',
     tags: ['StartupIndia', 'Innovation', 'DeepTech', 'MakeInIndia']
@@ -593,7 +593,7 @@ So, don't wait for the perfect idea. Start paying attention to the problems arou
       avatar: '/logo.jpg'
     },
     category: 'Entrepreneurship',
-    publishedAt: 'October 01, 2025',
+    publishedAt: 'September 01, 2026',
     readTime: '4 min read',
     coverImage: '/blogs/Great startups don\'t start with great ideas.jpeg',
     tags: ['ProblemSolving', 'Entrepreneurship', 'ThinkLikeAFounder', 'Innovation']
@@ -624,7 +624,7 @@ History has shown that every major technological revolution created new opportun
       avatar: '/logo.jpg'
     },
     category: 'Tech Trends',
-    publishedAt: 'October 15, 2025',
+    publishedAt: 'September 02, 2026',
     readTime: '4 min read',
     coverImage: '/blogs/will AI replace entrepreneurs.jpeg',
     tags: ['ArtificialIntelligence', 'FutureOfWork', 'Innovation', 'Technology']
@@ -653,7 +653,7 @@ For students and aspiring entrepreneurs, the goal shouldn't be to become the nex
       avatar: '/logo.jpg'
     },
     category: 'Entrepreneurship',
-    publishedAt: 'November 01, 2025',
+    publishedAt: 'September 03, 2026',
     readTime: '4 min read',
     coverImage: '/blogs/reality of startups.jpeg',
     tags: ['StartupReality', 'Entrepreneurship', 'Leadership', 'Growth']
@@ -684,7 +684,7 @@ At the heart of every successful startup is not just a brilliant idea, but a cur
       avatar: '/logo.jpg'
     },
     category: 'Entrepreneurship',
-    publishedAt: 'November 15, 2025',
+    publishedAt: 'September 04, 2026',
     readTime: '4 min read',
     coverImage: '/blogs/why curiosity is more valuable than intelligence.jpeg',
     tags: ['Curiosity', 'Innovation', 'ThinkDifferent', 'ProblemSolving']
@@ -717,7 +717,7 @@ The greatest innovations aren't always the ones that amaze us — they're the on
       avatar: '/logo.jpg'
     },
     category: 'Tech Trends',
-    publishedAt: 'December 01, 2025',
+    publishedAt: 'September 05, 2026',
     readTime: '4 min read',
     coverImage: '/blogs/Invisible innovations.jpeg',
     tags: ['Innovation', 'Technology', 'ThinkDifferent', 'InnovationMatters']
@@ -762,7 +762,7 @@ It's everything that happens after you write the first line of code.`,
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'September 01, 2026',
+    publishedAt: 'September 15, 2026',
     readTime: '6 min read',
     coverImage: '/blogs/startup_graveyard/coverpost.png',
     tags: ['StartupGraveyard', 'FailureAnalysis', 'Entrepreneurship', 'StartupLessons']
@@ -807,7 +807,7 @@ Because sometimes, the difference between a total disaster and an industry giant
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'September 05, 2026',
+    publishedAt: 'September 18, 2026',
     readTime: '7 min read',
     coverImage: '/blogs/startup_graveyard/episode01.png',
     tags: ['StartupGraveyard', 'Timing', 'MarketReadiness', 'FounderLessons']
@@ -852,7 +852,7 @@ Because the ultimate goal isn't just to catch lightning in a bottle. It's buildi
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'September 10, 2026',
+    publishedAt: 'September 23, 2026',
     readTime: '6 min read',
     coverImage: '/blogs/startup_graveyard/episode02.png',
     tags: ['StartupGraveyard', 'Hypergrowth', 'Scaling', 'OperationalFailure']
@@ -897,7 +897,7 @@ If you ever find yourself sitting on a pile of venture capital, the challenge is
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'September 15, 2026',
+    publishedAt: 'September 26, 2026',
     readTime: '6 min read',
     coverImage: '/blogs/startup_graveyard/episoode03.png',
     tags: ['StartupGraveyard', 'VCFunding', 'BurnRate', 'Discipline']
@@ -954,7 +954,7 @@ Because at the end of the day, compliments don't clear payroll. Paying customers
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'September 19, 2026',
+    publishedAt: 'September 29, 2026',
     readTime: '7 min read',
     coverImage: '/blogs/startup_graveyard/episode04.png',
     tags: ['StartupGraveyard', 'CustomerDiscovery', 'ProductMarketFit', 'UserVsBuyer']
@@ -1005,7 +1005,7 @@ If you don't have a solid answer, stop watching the competition and go fix your 
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'September 24, 2026',
+    publishedAt: 'October 01, 2026',
     readTime: '6 min read',
     coverImage: '/blogs/startup_graveyard/episode05.png',
     tags: ['StartupGraveyard', 'Competition', 'FirstMoverTrap', 'ProductStrategy']
@@ -1059,7 +1059,7 @@ Before you try to blow up the scoreboard, make sure your foundation can actually
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'September 29, 2026',
+    publishedAt: 'October 05, 2026',
     readTime: '6 min read',
     coverImage: '/blogs/startup_graveyard/episode06.png',
     tags: ['StartupGraveyard', 'GrowthTraps', 'Scaling', 'SustainableGrowth']
@@ -1117,7 +1117,7 @@ Start asking "If we build this, would anyone's life actually suffer if it disapp
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'October 05, 2026',
+    publishedAt: 'October 08, 2026',
     readTime: '6 min read',
     coverImage: '/blogs/startup_graveyard/episode07.png',
     tags: ['StartupGraveyard', 'ProblemValidation', 'BuildVsNeed', 'FounderEgo']
@@ -1175,7 +1175,7 @@ If ten people gave you ten completely different directions for your startup tomo
       avatar: '/logo.jpg'
     },
     category: 'Startup Graveyard',
-    publishedAt: 'October 10, 2026',
+    publishedAt: 'October 12, 2026',
     readTime: '6 min read',
     coverImage: '/blogs/startup_graveyard/episode08.png',
     tags: ['StartupGraveyard', 'Feedback', 'ProductVision', 'FounderBackbone']
